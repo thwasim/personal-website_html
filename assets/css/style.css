@@ -646,7 +646,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("/Laura/assets/img/bro.webp") no-repeat;
+  background: url("Laura/assets/img/bro.webp") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
